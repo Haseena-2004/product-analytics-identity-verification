@@ -1,0 +1,17 @@
+doc_type,country,target_samples,sourced_samples,gap,pct_of_target
+Driver License,MX,2000,346,1654,17.3
+Passport,ID,2000,418,1582,20.9
+National ID,ID,2000,530,1470,26.5
+Passport,NG,2000,761,1239,38.0
+National ID,NG,2000,811,1189,40.5
+National ID,PH,2000,922,1078,46.1
+Driver License,PH,2000,1360,640,68.0
+National ID,VN,2000,1397,603,69.8
+Voter ID,IN,5000,4309,691,86.2
+Passport,IN,5000,4391,609,87.8
+PAN,IN,5000,4434,566,88.7
+GST Certificate,IN,5000,4565,435,91.3
+Aadhaar,IN,5000,4702,298,94.0
+Utility Bill,IN,5000,4707,293,94.1
+Bank Statement,IN,5000,4840,160,96.8
+Driving License,IN,5000,5214,-214,104.3

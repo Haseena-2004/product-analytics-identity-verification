@@ -1,0 +1,5 @@
+source_channel,doc_sets,samples,avg_qa_yield_pct
+Partner vendor,3,5931,69.4
+Customer consented,6,14263,68.0
+Synthetic augmentation,4,10248,66.0
+Internal capture,3,13265,64.7

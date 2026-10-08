@@ -1,0 +1,17 @@
+doc_type,country,category,target_samples,sourced_samples,tagged_samples,qa_passed_samples,blurry_pct,low_light_pct,priority,source_channel
+Aadhaar,IN,Identity,5000,4702,3742,3595,10.0,7.1,Medium,Partner vendor
+PAN,IN,Identity,5000,4434,3454,3196,14.9,2.9,Medium,Synthetic augmentation
+Passport,IN,Identity,5000,4391,3462,3312,12.5,8.0,High,Internal capture
+Driving License,IN,Identity,5000,5214,4321,3992,5.4,2.2,Medium,Customer consented
+Voter ID,IN,Identity,5000,4309,2872,2524,3.5,6.6,High,Internal capture
+Bank Statement,IN,Financial,5000,4840,3234,2839,7.4,2.0,Medium,Customer consented
+Utility Bill,IN,Address Proof,5000,4707,3282,3182,17.9,10.4,Medium,Synthetic augmentation
+GST Certificate,IN,Business,5000,4565,3105,2746,4.1,9.7,Medium,Internal capture
+Passport,ID,Identity,2000,418,293,251,3.3,8.8,High,Partner vendor
+National ID,ID,Identity,2000,530,486,440,17.7,6.0,High,Customer consented
+National ID,PH,Identity,2000,922,617,574,8.1,5.1,High,Customer consented
+Driver License,PH,Identity,2000,1360,1176,1016,6.7,3.0,High,Customer consented
+National ID,NG,Identity,2000,811,624,581,5.8,7.1,High,Partner vendor
+Passport,NG,Identity,2000,761,558,500,17.9,2.0,High,Synthetic augmentation
+National ID,VN,Identity,2000,1397,847,738,17.9,8.0,High,Customer consented
+Driver License,MX,Identity,2000,346,225,203,3.1,8.1,High,Synthetic augmentation
