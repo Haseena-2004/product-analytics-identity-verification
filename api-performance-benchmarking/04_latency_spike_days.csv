@@ -1,0 +1,8 @@
+service,day,p95_ms,service_avg_p95
+Face Match,2026-09-09,3764,1646.0
+Intl ID OCR,2026-09-07,14996,8324.0
+Intl ID OCR,2026-09-11,15297,8324.0
+Passport Verification,2026-09-06,13589,6948.0
+Passport Verification,2026-09-07,14007,6948.0
+Voter ID Verification,2026-09-07,3946,1940.0
+Voter ID Verification,2026-09-11,3610,1940.0

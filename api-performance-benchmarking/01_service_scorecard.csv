@@ -1,0 +1,25 @@
+service,category,p95_ms,success_rate_pct,error_rate_pct,coverage_pct,health
+Intl ID OCR,OCR,6407,92.37,7.63,81.5,RED
+Passport Verification,Govt Verification,5365,99.57,0.43,76.7,RED
+Address Match,Data Matching,1613,98.05,1.95,85.0,RED
+Voter ID OCR,OCR,1544,92.04,7.96,99.7,RED
+Driving License Verification,Govt Verification,807,91.1,8.9,94.8,RED
+Bank Account Verification,Financial,1622,99.11,0.89,97.1,AMBER
+Driving License OCR,OCR,1592,99.11,0.89,98.1,AMBER
+Passport OCR,OCR,1574,98.26,1.74,94.4,AMBER
+IP Risk,Fraud Signals,1561,97.92,2.08,94.6,AMBER
+Voter ID Verification,Govt Verification,1502,98.64,1.36,94.6,AMBER
+Face Match,Biometrics,1467,97.69,2.31,95.6,AMBER
+Liveness Check,Biometrics,1432,97.99,2.01,99.1,AMBER
+Aadhaar OCR,OCR,1307,98.37,1.63,94.6,AMBER
+AML Screening,Compliance,1214,97.81,2.19,99.0,AMBER
+Name Match,Data Matching,945,97.62,2.38,97.0,AMBER
+UPI Verification,Financial,942,97.51,2.49,97.0,AMBER
+GST Verification,Business,713,97.82,2.18,95.8,AMBER
+Device Intelligence,Fraud Signals,657,98.25,1.75,95.6,AMBER
+Aadhaar Offline eKYC,Govt Verification,633,97.87,2.13,99.4,AMBER
+PAN Verification,Govt Verification,562,97.93,2.07,99.4,AMBER
+Phone Risk,Fraud Signals,555,97.9,2.1,99.1,AMBER
+Email Risk,Fraud Signals,1308,98.97,1.03,100.0,GREEN
+PAN OCR,OCR,1016,98.69,1.31,98.1,GREEN
+Company (MCA) Lookup,Business,633,99.63,0.37,95.3,GREEN

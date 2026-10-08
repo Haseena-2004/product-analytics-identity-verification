@@ -1,0 +1,337 @@
+service,day,p95_ms
+Aadhaar OCR,2026-09-01,1289
+Aadhaar OCR,2026-09-02,1194
+Aadhaar OCR,2026-09-03,1200
+Aadhaar OCR,2026-09-04,1287
+Aadhaar OCR,2026-09-05,1392
+Aadhaar OCR,2026-09-06,1208
+Aadhaar OCR,2026-09-07,1234
+Aadhaar OCR,2026-09-08,1340
+Aadhaar OCR,2026-09-09,1424
+Aadhaar OCR,2026-09-10,1327
+Aadhaar OCR,2026-09-11,1279
+Aadhaar OCR,2026-09-12,1431
+Aadhaar OCR,2026-09-13,1188
+Aadhaar OCR,2026-09-14,1400
+PAN OCR,2026-09-01,1025
+PAN OCR,2026-09-02,927
+PAN OCR,2026-09-03,926
+PAN OCR,2026-09-04,956
+PAN OCR,2026-09-05,1052
+PAN OCR,2026-09-06,1001
+PAN OCR,2026-09-07,978
+PAN OCR,2026-09-08,1033
+PAN OCR,2026-09-09,1006
+PAN OCR,2026-09-10,975
+PAN OCR,2026-09-11,1075
+PAN OCR,2026-09-12,1056
+PAN OCR,2026-09-13,964
+PAN OCR,2026-09-14,1031
+Passport OCR,2026-09-01,1570
+Passport OCR,2026-09-02,1428
+Passport OCR,2026-09-03,1626
+Passport OCR,2026-09-04,1657
+Passport OCR,2026-09-05,1596
+Passport OCR,2026-09-06,1692
+Passport OCR,2026-09-07,1515
+Passport OCR,2026-09-08,1635
+Passport OCR,2026-09-09,1603
+Passport OCR,2026-09-10,1599
+Passport OCR,2026-09-11,1560
+Passport OCR,2026-09-12,1681
+Passport OCR,2026-09-13,1713
+Passport OCR,2026-09-14,1565
+Driving License OCR,2026-09-01,1439
+Driving License OCR,2026-09-02,1579
+Driving License OCR,2026-09-03,1486
+Driving License OCR,2026-09-04,1470
+Driving License OCR,2026-09-05,1451
+Driving License OCR,2026-09-06,1677
+Driving License OCR,2026-09-07,1473
+Driving License OCR,2026-09-08,1511
+Driving License OCR,2026-09-09,1557
+Driving License OCR,2026-09-10,1710
+Driving License OCR,2026-09-11,1458
+Driving License OCR,2026-09-12,1575
+Driving License OCR,2026-09-13,1607
+Driving License OCR,2026-09-14,1714
+Voter ID OCR,2026-09-01,1646
+Voter ID OCR,2026-09-02,1445
+Voter ID OCR,2026-09-03,1476
+Voter ID OCR,2026-09-04,1434
+Voter ID OCR,2026-09-05,1554
+Voter ID OCR,2026-09-06,1577
+Voter ID OCR,2026-09-07,1487
+Voter ID OCR,2026-09-08,1428
+Voter ID OCR,2026-09-09,1654
+Voter ID OCR,2026-09-10,1683
+Voter ID OCR,2026-09-11,1591
+Voter ID OCR,2026-09-12,1618
+Voter ID OCR,2026-09-13,1530
+Voter ID OCR,2026-09-14,1658
+Intl ID OCR,2026-09-01,6492
+Intl ID OCR,2026-09-02,6453
+Intl ID OCR,2026-09-03,6982
+Intl ID OCR,2026-09-04,6552
+Intl ID OCR,2026-09-05,5856
+Intl ID OCR,2026-09-06,14478
+Intl ID OCR,2026-09-07,14996
+Intl ID OCR,2026-09-08,6579
+Intl ID OCR,2026-09-09,6990
+Intl ID OCR,2026-09-10,6538
+Intl ID OCR,2026-09-11,15297
+Intl ID OCR,2026-09-12,5914
+Intl ID OCR,2026-09-13,6391
+Intl ID OCR,2026-09-14,7019
+Face Match,2026-09-01,1599
+Face Match,2026-09-02,1426
+Face Match,2026-09-03,1522
+Face Match,2026-09-04,1588
+Face Match,2026-09-05,1542
+Face Match,2026-09-06,1407
+Face Match,2026-09-07,1508
+Face Match,2026-09-08,1347
+Face Match,2026-09-09,3764
+Face Match,2026-09-10,1472
+Face Match,2026-09-11,1586
+Face Match,2026-09-12,1424
+Face Match,2026-09-13,1385
+Face Match,2026-09-14,1479
+Liveness Check,2026-09-01,1346
+Liveness Check,2026-09-02,1429
+Liveness Check,2026-09-03,1498
+Liveness Check,2026-09-04,1572
+Liveness Check,2026-09-05,1515
+Liveness Check,2026-09-06,1424
+Liveness Check,2026-09-07,1344
+Liveness Check,2026-09-08,1462
+Liveness Check,2026-09-09,1387
+Liveness Check,2026-09-10,1520
+Liveness Check,2026-09-11,1495
+Liveness Check,2026-09-12,1388
+Liveness Check,2026-09-13,1567
+Liveness Check,2026-09-14,1311
+PAN Verification,2026-09-01,578
+PAN Verification,2026-09-02,599
+PAN Verification,2026-09-03,519
+PAN Verification,2026-09-04,549
+PAN Verification,2026-09-05,585
+PAN Verification,2026-09-06,528
+PAN Verification,2026-09-07,605
+PAN Verification,2026-09-08,554
+PAN Verification,2026-09-09,577
+PAN Verification,2026-09-10,515
+PAN Verification,2026-09-11,612
+PAN Verification,2026-09-12,586
+PAN Verification,2026-09-13,557
+PAN Verification,2026-09-14,589
+Aadhaar Offline eKYC,2026-09-01,629
+Aadhaar Offline eKYC,2026-09-02,688
+Aadhaar Offline eKYC,2026-09-03,589
+Aadhaar Offline eKYC,2026-09-04,639
+Aadhaar Offline eKYC,2026-09-05,572
+Aadhaar Offline eKYC,2026-09-06,670
+Aadhaar Offline eKYC,2026-09-07,661
+Aadhaar Offline eKYC,2026-09-08,582
+Aadhaar Offline eKYC,2026-09-09,664
+Aadhaar Offline eKYC,2026-09-10,587
+Aadhaar Offline eKYC,2026-09-11,694
+Aadhaar Offline eKYC,2026-09-12,594
+Aadhaar Offline eKYC,2026-09-13,680
+Aadhaar Offline eKYC,2026-09-14,573
+Driving License Verification,2026-09-01,809
+Driving License Verification,2026-09-02,859
+Driving License Verification,2026-09-03,868
+Driving License Verification,2026-09-04,747
+Driving License Verification,2026-09-05,750
+Driving License Verification,2026-09-06,808
+Driving License Verification,2026-09-07,867
+Driving License Verification,2026-09-08,851
+Driving License Verification,2026-09-09,824
+Driving License Verification,2026-09-10,851
+Driving License Verification,2026-09-11,750
+Driving License Verification,2026-09-12,749
+Driving License Verification,2026-09-13,826
+Driving License Verification,2026-09-14,745
+Voter ID Verification,2026-09-01,1381
+Voter ID Verification,2026-09-02,1487
+Voter ID Verification,2026-09-03,1360
+Voter ID Verification,2026-09-04,1620
+Voter ID Verification,2026-09-05,1370
+Voter ID Verification,2026-09-06,3479
+Voter ID Verification,2026-09-07,3946
+Voter ID Verification,2026-09-08,1533
+Voter ID Verification,2026-09-09,1411
+Voter ID Verification,2026-09-10,1435
+Voter ID Verification,2026-09-11,3610
+Voter ID Verification,2026-09-12,1594
+Voter ID Verification,2026-09-13,1504
+Voter ID Verification,2026-09-14,1426
+Passport Verification,2026-09-01,5548
+Passport Verification,2026-09-02,5288
+Passport Verification,2026-09-03,5056
+Passport Verification,2026-09-04,5153
+Passport Verification,2026-09-05,4959
+Passport Verification,2026-09-06,13589
+Passport Verification,2026-09-07,14007
+Passport Verification,2026-09-08,5518
+Passport Verification,2026-09-09,5221
+Passport Verification,2026-09-10,5100
+Passport Verification,2026-09-11,11941
+Passport Verification,2026-09-12,5330
+Passport Verification,2026-09-13,5629
+Passport Verification,2026-09-14,4929
+Email Risk,2026-09-01,1366
+Email Risk,2026-09-02,1182
+Email Risk,2026-09-03,1322
+Email Risk,2026-09-04,1292
+Email Risk,2026-09-05,1181
+Email Risk,2026-09-06,1263
+Email Risk,2026-09-07,1340
+Email Risk,2026-09-08,1311
+Email Risk,2026-09-09,1194
+Email Risk,2026-09-10,1434
+Email Risk,2026-09-11,1383
+Email Risk,2026-09-12,1431
+Email Risk,2026-09-13,1204
+Email Risk,2026-09-14,1246
+Phone Risk,2026-09-01,601
+Phone Risk,2026-09-02,562
+Phone Risk,2026-09-03,577
+Phone Risk,2026-09-04,509
+Phone Risk,2026-09-05,505
+Phone Risk,2026-09-06,575
+Phone Risk,2026-09-07,546
+Phone Risk,2026-09-08,507
+Phone Risk,2026-09-09,603
+Phone Risk,2026-09-10,569
+Phone Risk,2026-09-11,588
+Phone Risk,2026-09-12,508
+Phone Risk,2026-09-13,594
+Phone Risk,2026-09-14,506
+Device Intelligence,2026-09-01,718
+Device Intelligence,2026-09-02,625
+Device Intelligence,2026-09-03,615
+Device Intelligence,2026-09-04,713
+Device Intelligence,2026-09-05,673
+Device Intelligence,2026-09-06,661
+Device Intelligence,2026-09-07,618
+Device Intelligence,2026-09-08,649
+Device Intelligence,2026-09-09,679
+Device Intelligence,2026-09-10,626
+Device Intelligence,2026-09-11,696
+Device Intelligence,2026-09-12,721
+Device Intelligence,2026-09-13,596
+Device Intelligence,2026-09-14,593
+IP Risk,2026-09-01,1682
+IP Risk,2026-09-02,1707
+IP Risk,2026-09-03,1500
+IP Risk,2026-09-04,1472
+IP Risk,2026-09-05,1476
+IP Risk,2026-09-06,1466
+IP Risk,2026-09-07,1680
+IP Risk,2026-09-08,1632
+IP Risk,2026-09-09,1448
+IP Risk,2026-09-10,1713
+IP Risk,2026-09-11,1711
+IP Risk,2026-09-12,1666
+IP Risk,2026-09-13,1409
+IP Risk,2026-09-14,1600
+Name Match,2026-09-01,937
+Name Match,2026-09-02,880
+Name Match,2026-09-03,934
+Name Match,2026-09-04,900
+Name Match,2026-09-05,1032
+Name Match,2026-09-06,1034
+Name Match,2026-09-07,953
+Name Match,2026-09-08,896
+Name Match,2026-09-09,1033
+Name Match,2026-09-10,909
+Name Match,2026-09-11,917
+Name Match,2026-09-12,850
+Name Match,2026-09-13,922
+Name Match,2026-09-14,940
+Address Match,2026-09-01,1526
+Address Match,2026-09-02,1640
+Address Match,2026-09-03,1622
+Address Match,2026-09-04,1693
+Address Match,2026-09-05,1663
+Address Match,2026-09-06,1682
+Address Match,2026-09-07,1735
+Address Match,2026-09-08,1577
+Address Match,2026-09-09,1556
+Address Match,2026-09-10,1769
+Address Match,2026-09-11,1499
+Address Match,2026-09-12,1685
+Address Match,2026-09-13,1659
+Address Match,2026-09-14,1465
+Bank Account Verification,2026-09-01,1682
+Bank Account Verification,2026-09-02,1718
+Bank Account Verification,2026-09-03,1690
+Bank Account Verification,2026-09-04,1769
+Bank Account Verification,2026-09-05,1668
+Bank Account Verification,2026-09-06,1487
+Bank Account Verification,2026-09-07,1473
+Bank Account Verification,2026-09-08,1666
+Bank Account Verification,2026-09-09,1771
+Bank Account Verification,2026-09-10,1581
+Bank Account Verification,2026-09-11,1606
+Bank Account Verification,2026-09-12,1476
+Bank Account Verification,2026-09-13,1465
+Bank Account Verification,2026-09-14,1632
+UPI Verification,2026-09-01,937
+UPI Verification,2026-09-02,1000
+UPI Verification,2026-09-03,1007
+UPI Verification,2026-09-04,892
+UPI Verification,2026-09-05,990
+UPI Verification,2026-09-06,891
+UPI Verification,2026-09-07,970
+UPI Verification,2026-09-08,934
+UPI Verification,2026-09-09,1007
+UPI Verification,2026-09-10,862
+UPI Verification,2026-09-11,1019
+UPI Verification,2026-09-12,901
+UPI Verification,2026-09-13,856
+UPI Verification,2026-09-14,967
+GST Verification,2026-09-01,780
+GST Verification,2026-09-02,655
+GST Verification,2026-09-03,672
+GST Verification,2026-09-04,711
+GST Verification,2026-09-05,742
+GST Verification,2026-09-06,682
+GST Verification,2026-09-07,708
+GST Verification,2026-09-08,751
+GST Verification,2026-09-09,783
+GST Verification,2026-09-10,719
+GST Verification,2026-09-11,686
+GST Verification,2026-09-12,653
+GST Verification,2026-09-13,709
+GST Verification,2026-09-14,682
+Company (MCA) Lookup,2026-09-01,664
+Company (MCA) Lookup,2026-09-02,602
+Company (MCA) Lookup,2026-09-03,615
+Company (MCA) Lookup,2026-09-04,646
+Company (MCA) Lookup,2026-09-05,649
+Company (MCA) Lookup,2026-09-06,605
+Company (MCA) Lookup,2026-09-07,583
+Company (MCA) Lookup,2026-09-08,615
+Company (MCA) Lookup,2026-09-09,632
+Company (MCA) Lookup,2026-09-10,680
+Company (MCA) Lookup,2026-09-11,619
+Company (MCA) Lookup,2026-09-12,589
+Company (MCA) Lookup,2026-09-13,689
+Company (MCA) Lookup,2026-09-14,655
+AML Screening,2026-09-01,1320
+AML Screening,2026-09-02,1140
+AML Screening,2026-09-03,1095
+AML Screening,2026-09-04,1272
+AML Screening,2026-09-05,1154
+AML Screening,2026-09-06,1108
+AML Screening,2026-09-07,1187
+AML Screening,2026-09-08,1303
+AML Screening,2026-09-09,1111
+AML Screening,2026-09-10,1317
+AML Screening,2026-09-11,1276
+AML Screening,2026-09-12,1300
+AML Screening,2026-09-13,1160
+AML Screening,2026-09-14,1105

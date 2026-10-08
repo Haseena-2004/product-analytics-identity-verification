@@ -1,0 +1,6 @@
+service,missing_fields_pct,timeout_rate_pct
+Driving License Verification,4.9,0.23
+Aadhaar Offline eKYC,3.6,0.16
+Passport Verification,1.9,1.43
+Voter ID Verification,0.3,1.58
+Intl ID OCR,0.2,1.35

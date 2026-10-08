@@ -1,0 +1,11 @@
+service,monthly_requests,failure_pct,est_failed_requests_per_month
+Driving License Verification,2466742,8.9,219540
+Voter ID OCR,998682,7.96,79495
+AML Screening,3539485,2.19,77514
+Aadhaar Offline eKYC,3486636,2.13,74265
+Name Match,2925333,2.38,69622
+Liveness Check,3123252,2.01,62777
+PAN Verification,2758788,2.07,57106
+IP Risk,2096187,2.08,43600
+Phone Risk,1722668,2.1,36176
+Driving License OCR,3740516,0.89,33290
