@@ -1,0 +1,10 @@
+failure_reason,avg_ms,max_ms,n
+API Timeout,11561.0,14588,34
+Unsupported Document Format,2743.0,6158,36
+Face Match Failed,2597.0,5133,28
+OCR Extraction Error,2433.0,5090,46
+Glare/Reflection,2362.0,8329,25
+Blurry Image,2278.0,5158,60
+Liveness Failed,2257.0,3915,36
+Name Mismatch,2185.0,4776,26
+Document Expired,1959.0,3303,15

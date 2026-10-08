@@ -1,0 +1,2 @@
+total_txns,success_rate_pct,avg_processing_ms,avg_retries,avg_risk_score
+1500,79.6,2457.0,0.6,33.8

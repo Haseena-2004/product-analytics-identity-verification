@@ -1,0 +1,10 @@
+failure_reason,failures,pct_of_failures
+Blurry Image,60,19.61
+OCR Extraction Error,46,15.03
+Unsupported Document Format,36,11.76
+Liveness Failed,36,11.76
+API Timeout,34,11.11
+Face Match Failed,28,9.15
+Name Mismatch,26,8.5
+Glare/Reflection,25,8.17
+Document Expired,15,4.9

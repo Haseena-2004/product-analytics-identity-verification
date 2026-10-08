@@ -1,0 +1,11 @@
+channel,document_type,txns,failure_rate_pct
+Android,National ID (Intl),70,42.86
+Web,Voter ID,31,32.26
+Web,Driving License,53,30.19
+Web,Passport,47,29.79
+Android,Driving License,135,28.15
+Android,Passport,104,27.88
+Android,Voter ID,88,27.27
+Web,Aadhaar,83,19.28
+iOS,Passport,48,18.75
+Android,Aadhaar,235,17.45

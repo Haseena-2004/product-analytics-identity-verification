@@ -1,0 +1,5 @@
+client_segment,txns,success_rate_pct,avg_retries
+Crypto Exchange,377,77.45,0.66
+Gaming & Wallets,374,78.88,0.62
+Fintech Lending,359,79.39,0.59
+Neobank,390,82.56,0.55
